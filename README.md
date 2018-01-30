@@ -1,5 +1,5 @@
 # my_first_repository
-Just a random attempt.
+Just an attempt.
 ## A wierd line
 ### Another wierd line
 `This one seems better`
